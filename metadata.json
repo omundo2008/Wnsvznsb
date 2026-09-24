@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Aplicação Tradução SOS para Surdos",
+  "description": "Aplicação acessível para surdo-mudos com navegação inspirada no Spotify, tradução simplificada em alto contraste, histórico de localizações e botão SOS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
